@@ -17,3 +17,23 @@ Before running this project, make sure you have installed:
      ```bash
      pip install -r requirements.txt
      ```
+
+---
+
+## 🎶 Bot Commands
+```bash
+|         Command          |            Description             |
+|--------------------------|------------------------------------|
+| `|play <url or keyword>` | Play audio or add to queue         |
+| `|skip`                  | Skip current song                  |
+| `|pause`                 | Pause playback                     |
+| `|resume`                | Resume from pause                  |
+| `|stop`                  | Stop and reset queue               |
+| `|loop <none|one|all>`   | Set loop mode                      |
+| `|queue`                 | Show upcoming list (last 10 items) |
+| `|now`                   | Show currently playing song        |
+```
+---
+
+## 🚀 Usage
+After installing all prerequisites, run the project according to the scripts or documentation provided in this repository.
