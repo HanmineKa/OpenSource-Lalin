@@ -33,7 +33,3 @@ Before running this project, make sure you have installed:
 | `|queue`                 | Show upcoming list (last 10 items) |
 | `|now`                   | Show currently playing song        |
 ```
----
-
-## 🚀 Usage
-After installing all prerequisites, run the project according to the scripts or documentation provided in this repository.
